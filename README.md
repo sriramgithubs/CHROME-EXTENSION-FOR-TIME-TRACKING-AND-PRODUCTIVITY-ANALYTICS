@@ -67,3 +67,7 @@ Self-Improvement Enthusiasts: Gain insights into daily internet habits and optim
 
 Conclusion
 The Website Tracker Chrome Extension is a valuable tool for anyone looking to gain control over their web browsing habits. By offering real-time tracking, insightful analytics, and website limitation features, this extension empowers users to use the internet more mindfully. Whether you’re looking to boost productivity, manage screen time, or simply understand your browsing patterns, Website Tracker provides the perfect solution.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/79bb863a-3210-4a00-af90-9a9476e50750)
+![Image](https://github.com/user-attachments/assets/02c516f0-778a-4ee8-ab80-8bcf3c242af3)
