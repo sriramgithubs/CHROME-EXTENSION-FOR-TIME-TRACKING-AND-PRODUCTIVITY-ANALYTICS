@@ -1,5 +1,17 @@
 # CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SRIRAM P
+
+INTERN ID: CT12TDV
+
+DOMAIN: FULL STACK WEB DEVELOPMENT
+
+DURATION: 8 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 Key Features
 1. Time Tracking on Websites
 Website Tracker actively records the time spent on each website in real-time. Whether you’re working on an important project, attending virtual meetings, or casually browsing social media, the extension will keep an accurate log of your online activity.
